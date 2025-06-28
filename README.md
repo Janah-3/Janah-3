@@ -1,7 +1,5 @@
 # 💫 About Me:
-Backend Developer | Server-Side Systems & APIs<br><br>I am a dedicated backend developer specializing in designing and implementing scalable, high-performance server-side solutions. My focus is on building secure APIs, optimizing database performance, and delivering clean, maintainable code for production environments.<br><br>🔹 Key areas of expertise:<br><br>Backend architecture and system design<br><br>RESTful API development<br><br>Database design, optimization, and management<br><br>Performance tuning and scalability<br><br>Integration of secure authentication and authorization<br><br>
-
-
+Backend Developer | Server-Side Systems & APIs<br><br>I am a dedicated backend developer specializing in designing and implementing scalable, high-performance server-side solutions. My focus is on building secure APIs, optimizing database performance, and delivering clean, maintainable code for production environments.<br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jana-ayoub-606109307) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jana.ayoub.004@gmail.com) 
 
