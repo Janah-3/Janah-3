@@ -4,7 +4,7 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18&height=180&section=header&text=Backend%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38)
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D77FB3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Programming+Instructor+%F0%9F%93%9A;Problem+Solver+%E2%9C%A8)](https://git.io/typing-svg)
+
 
 </div>
 
