@@ -1,9 +1,76 @@
-# 💫 About Me:
-<b>Backend Developer | Server-Side Systems & APIs<b/><br><br>I am a dedicated backend developer specializing in designing and implementing scalable, high-performance server-side solutions. My focus is on building secure APIs, optimizing database performance, and delivering clean, maintainable code for production environments.<br><br>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jana-ayoub-606109307) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jana.ayoub.004@gmail.com) 
+# 💜 Hi, I'm Jana! 👋
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18&height=180&section=header&text=Backend%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38)
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D77FB3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Programming+Instructor+%F0%9F%93%9A;Problem+Solver+%E2%9C%A8)](https://git.io/typing-svg)
 
-[![](https://visitcount.itsvg.in/api?id=Janah-3&icon=0&color=10)](https://visitcount.itsvg.in)
+</div>
+
+## 🌸 About Me
+
+Backend Web Developer 
+Specialized in backend web development with expertise in building scalable, efficient server-side solutions. I work primarily with ASP.NET Core, bringing strong knowledge in database design, API development. 
+
+## 💖 Tech Stack
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=E6B8D7)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=FFB6D9)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=DDA0DD)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=D8BFD8)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=B19CD9)
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&color=C8A2C8)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=E6C5E3)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=B8A9D4)
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=E8B4D4)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=D9B8E3)
+
+</div>
+
+## 🌟 Featured Projects
+
+### 🍅 Pomogo
+**Flutter** • Mobile productivity app combining goal tracking with Pomodoro technique
+
+### 🏢 Organization Management System
+**ASP.NET Core MVC** • Employee and department administration platform with role-based access
+
+### 💼 Nilance
+**PHP | MySQL** • Freelancing platform with dual wallet system and real-time chat
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janah-3&show_icons=true&theme=radical&bg_color=0d1117&title_color=D77FB3&icon_color=E6B8D7&text_color=E8B4D4&border_color=D4A5D4&hide=contribs)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janah-3&layout=compact&theme=radical&bg_color=0d1117&title_color=D77FB3&text_color=E8B4D4&border_color=D4A5D4)
+
+</div>
+
+## 💌 Connect With Me
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-D77FB3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jana.Ayoub.004@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-E6B8D7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jana-ayoub-606109307)
+  [![GitHub](https://img.shields.io/badge/GitHub-DDA0DD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Janah-3)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💝 "Code with passion, build with purpose" 💝
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Janah-3&color=D77FB3&style=for-the-badge)
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18&height=100&section=footer)
+
+</div>
