@@ -43,16 +43,6 @@ Specialized in backend web development with expertise in building scalable, effi
 ### 💼 Nilance
 **PHP | MySQL** • Freelancing platform with dual wallet system and real-time chat
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janah-3&show_icons=true&theme=radical&bg_color=0d1117&title_color=D77FB3&icon_color=E6B8D7&text_color=E8B4D4&border_color=D4A5D4&hide=contribs)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janah-3&layout=compact&theme=radical&bg_color=0d1117&title_color=D77FB3&text_color=E8B4D4&border_color=D4A5D4)
-
-</div>
-
 ## 💌 Connect With Me
 
 <div align="center">
